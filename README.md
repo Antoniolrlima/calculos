@@ -2,18 +2,18 @@
 
 Aplicação C# para efetuar diversos tipos de cálculos.
 
-![Aplicação Cálculos](aplicacao-calculos.png)
+![Aplicação Cálculos](blob/main/aplicacao-calculos.png)
 
 Desenvolvida no *âmbito* da ação de formação **Introdução ao Git e GitHub** 
 
-## Operações suportadas
+## Operações suportadas   
 
-Neste momemto esta aplicação implementa as seguintes operações:          
+Neste momemto esta aplicação implementa as seguintes operações:                    
 
 - soma
 - subtração
 - conversão de temperaturas
-    - celsius :arrow_right: fahrenheit
+    - celsius :arrow_right: fahrenheit    
     - fahrenheit :arrow_right: celsius
 - conversão de distancias
     - metros :arrow_right: milhas
